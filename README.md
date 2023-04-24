@@ -1,4 +1,4 @@
  ## **Important Note**
-The purpose of this Project sandbox is to offer you a space where you can work in VS Code without downloading it to your computer. The Project sandbox already has an empty HTML and CSS file that you can use to develop your home page.
+The purpose of this Project is a HTML/CSS template for creating a food delivery site  .
 
 the live Demo of this site is at the Link https://gleaming-kataifi-873c6f.netlify.app
